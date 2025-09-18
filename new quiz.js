@@ -7,7 +7,9 @@ const showWordFirst = false; // true: word first, false: video first
 
 // START QUIZ DATA
 const quizData = [
-  
+
+  ["Italie", "https://github.com/stefbrame-nawlou/quiz-videos/blob/main/italie_2.mp4"],
+  ["Danemark", "https://github.com/stefbrame-nawlou/quiz-videos/blob/main/danemark_1.mp4"]
   /*
   ["Janvier", "C:/Users/BrameS/Documents/Mio/LSFB - IFC/mp4/janvier_1.mp4"],
   ["Février", "C:/Users/BrameS/Documents/Mio/LSFB - IFC/mp4/fevrier_1.mp4"],
@@ -72,6 +74,7 @@ const quizData = [
   ["Poire", "C:/Users/BrameS/Documents/Mio/LSFB - IFC/mp4/poire_2.mp4"],
   */
 
+  /*
   ["Estonie", "C:/Users/BrameS/Documents/Mio/LSFB - IFC/mp4/estonie_1.mp4"],
   ["Vatican", "C:/Users/BrameS/Documents/Mio/LSFB - IFC/mp4/vatican_1.mp4"],
   ["Finlande", "C:/Users/BrameS/Documents/Mio/LSFB - IFC/mp4/finlande_1.mp4"],
@@ -127,6 +130,7 @@ const quizData = [
   ["Azerbaïdjan", "C:/Users/BrameS/Documents/Mio/LSFB - IFC/mp4/azerbaidjan_2.mp4"],
   ["Ukraine", "C:/Users/BrameS/Documents/Mio/LSFB - IFC/mp4/ukraine_1.mp4"],
   ["Albanie", "C:/Users/BrameS/Documents/Mio/LSFB - IFC/mp4/albanie_1.mp4"]
+*/
 
 ];
 
@@ -316,3 +320,4 @@ document.addEventListener("DOMContentLoaded", () => {
 
   loadWord();
 });
+
