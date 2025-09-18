@@ -2,7 +2,7 @@
 const folderMP4 = "C:/Users/BrameS/Documents/Mio/LSFB - IFC/mp4/";
 
 // Toggle quiz mode
-const showWordFirst = false; // true: word first, false: video first
+const showWordFirst = true; // true: word first, false: video first
 
 
 // START QUIZ DATA
@@ -320,4 +320,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
   loadWord();
 });
+
 
