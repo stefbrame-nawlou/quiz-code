@@ -8,7 +8,7 @@ const showWordFirst = true; // true: word first, false: video first
 // START QUIZ DATA
 const quizData = [
 
-  ["Italie", "http://dico.lsfb.be/?p=25431"], //"https://github.com/stefbrame-nawlou/quiz-videos/blob/main/italie_2.mp4"],
+  ["Itaaaaaalie", "http://dico.lsfb.be/?p=25431"], //"https://github.com/stefbrame-nawlou/quiz-videos/blob/main/italie_2.mp4"],
   ["Danemark", "https://github.com/stefbrame-nawlou/quiz-videos/blob/main/danemark_1.mp4"]
   /*
   ["Janvier", "C:/Users/BrameS/Documents/Mio/LSFB - IFC/mp4/janvier_1.mp4"],
@@ -320,6 +320,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   loadWord();
 });
+
 
 
 
